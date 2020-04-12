@@ -1,0 +1,21 @@
+.header-logo {
+  padding: 20px;
+}
+
+header-list li {
+  list-style: none;
+  float:left;
+}
+
+footer-logo li {
+  float:left;
+}
+footer-list li {
+  float:right;
+}
+
+.contents h3 {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 20px 30px;
+}

@@ -19,3 +19,7 @@ footer-list li {
   padding: 10px;
   margin: 20px 30px;
 }
+
+footer {
+  background-color: black;
+}

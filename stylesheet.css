@@ -1,27 +1,16 @@
-html {
-  transition: all 1s;
-}
-html:hover {
-  color: blue;
-}
-
-
 .header-logo {
   padding: 20px;
+  float:left;
 }
-
+.header-list li {
+  list-style: none;
+  float:left;
+}
 
 .background-image {
   background-image:url(https://apptopi.jp/wp-content/uploads/171108opbr.jpg);
   background-size: cover;
   margin:0 auto;
-}
-
-footer-logo li {
-  float:left;
-}
-footer-list li {
-  float:right;
 }
 
 .contents h3 {
@@ -32,4 +21,10 @@ footer-list li {
 
 footer {
   background-color: black;
+}
+footer-logo li {
+  float:left;
+}
+footer-list li {
+  float:right;
 }

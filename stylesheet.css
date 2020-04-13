@@ -7,6 +7,10 @@ header-list li {
   float:left;
 }
 
+.background-image {
+  background-image: https://apptopi.jp/wp-content/uploads/171108opbr.jpg;
+}
+
 footer-logo li {
   float:left;
 }

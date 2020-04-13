@@ -8,7 +8,7 @@ header-list li {
 }
 
 .background-image {
-  background-image: https://apptopi.jp/wp-content/uploads/171108opbr.jpg;
+  background-image: url(https://apptopi.jp/wp-content/uploads/171108opbr.jpg);
 }
 
 footer-logo li {
